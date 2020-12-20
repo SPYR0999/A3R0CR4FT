@@ -6,7 +6,7 @@ If you already have Minecraft installed, skip to step 5.
 4. Open TLauncher and set your Username or account.
 5. On Windows use the Windows key to open the search bar and type %appdata%. Navigate to .minecraft and find the mods folder (if it doesn't exist you can create one).
    On Mac go into [USER]/Library/ApplicationSupport/Minecraft and find the mods folder (if it doesn't exist you can create one).
-6. Download the mods from the GitHub page and copy them into the mods folder.
+6. Download the [mods](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods) from the GitHub page and copy them into the mods folder.
 7. Launch Minecraft on the version Forge 1.12.2
 8. Go into Multiplayer and choose Add Server.
 9. For the server name choose the one you want, but we reccomend A3R0CR4FT.
