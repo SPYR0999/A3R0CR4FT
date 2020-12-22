@@ -1,12 +1,12 @@
 [Quick hotbar](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/Quick-Hotbar-Mod-1.12.2.jar):
-[source](http://www.9minecraft.net/quick-hotbar-mod/)
+[(source)](http://www.9minecraft.net/quick-hotbar-mod/)
 
 >The Quick hotbar mod allows you to quickly swap hotbars anytime.
 By pressing left-ctrl and using the mouse wheel you can swap your hotbar with another row of your inventory.
 
 
 [WorldEdit](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/worldedit-forge-mc1.12.2-6.1.10-dist.jar):
-[source](https://www.curseforge.com/minecraft/mc-mods/worldedit)
+[(source)](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 
 >This mod lets you modify your world faster with commands.
 [Here](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/WorldEditTutoial.md) is a more detailes tutorial of this mod.
@@ -15,31 +15,31 @@ By pressing left-ctrl and using the mouse wheel you can swap your hotbar with an
 
 
 [Vanilla builder's extension](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/Vanilla%2BBuilders%2BExtension-1.12.2-1.0.9.jar):
-[source](https://www.curseforge.com/minecraft/mc-mods/vanilla-builders-extension)
+[(source)](https://www.curseforge.com/minecraft/mc-mods/vanilla-builders-extension)
 
 >This mod adds tons of slabs, stairs, fences and walls of different materials to the game.
 
 
 [JEI (Just Enough Items)](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/jei_1.12.2-4.16.1.302.jar):
-[source](https://www.curseforge.com/minecraft/mc-mods/jei)
+[(source)](https://www.curseforge.com/minecraft/mc-mods/jei)
 
 >Shows all items on the right side of the inventory.
 We suggest going into the mod options menu and enabling cheat mode, this way you will be able to pick blocks from this menu at any time.
 
 
 [Chisel & Bits](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/chiselsandbits-14.33.jar):
-[source](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+[(source)](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
 
 >This mod lets you modify blocks on a tiny scale.
 
-Grab a chisel and you can remove parts of a block.
+>Grab a chisel and you can remove parts of a block.
 Press left-alt with it to see an option menu. From here you can:
 - Undo
 - Redo
 - Change the size or shape of you brush
 - Modify the grid...
 
-Grab bits from your inventory to place them.
+>Grab bits from your inventory to place them.
 Press left-alt with it to see an option menu. From here you can:
 - Undo
 - Redo
@@ -48,7 +48,7 @@ Press left-alt with it to see an option menu. From here you can:
 
 
 [Redstone++](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/Redstone%2B%2B%2Bver1.3e.jar):
-[source](https://www.curseforge.com/minecraft/mc-mods/redstoneplusplus)
+[(source)](https://www.curseforge.com/minecraft/mc-mods/redstoneplusplus)
 
 >This mod adds redstone items to Minecraft and other small changes.
 Refer to the [source](https://www.curseforge.com/minecraft/mc-mods/redstoneplusplus) for a list of modifications.
