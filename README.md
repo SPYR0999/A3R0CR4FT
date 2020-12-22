@@ -8,3 +8,5 @@ Click [here](https://github.com/SPYR0999/A3R0CR4FT/blob/main/tutorials/installPr
 Thanks to our Admins:
   - ALEXANDRE BERGERON
   - ANTOINE GAZAILLE
+
+If you see any syntax, grammar or other errors, or you think improvements should be made in the documentation of this repository, please let us know and we'll change it.
