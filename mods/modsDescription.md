@@ -9,7 +9,7 @@ By pressing left-ctrl and using the mouse wheel you can swap your hotbar with an
 [(source)](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 
 >This mod lets you modify your world faster with commands.
-[Here](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/WorldEditTutoial.md) is a more detailes tutorial of this mod.
+[Here](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/WorldEditTutoial.md) is a more detailed tutorial of this mod.
 
 >REMEMBER: Always keep a wooden axe close, you never know when it'll be useful.
 
