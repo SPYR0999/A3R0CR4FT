@@ -53,3 +53,8 @@ Press left-alt with it to see an option menu. From here you can:
 >This mod adds redstone items to Minecraft and other small changes.
 Refer to the [source](https://www.curseforge.com/minecraft/mc-mods/redstoneplusplus) for a list of modifications.
 No changes were disabled from the .config file.
+
+[Albedo Torches](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/AlbedoTorches-1.1.2.jar):
+[(source)](https://www.curseforge.com/minecraft/mc-mods/albedo-torches)
+
+>This mod adds colored torches to the game.
