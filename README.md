@@ -7,6 +7,8 @@ Click [here](https://github.com/SPYR0999/A3R0CR4FT/blob/main/tutorials/installPr
 
 Click [here](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/modsDescription.md) for a list of the mods and how to use them.
 
+Click [here](https://github.com/SPYR0999/A3R0CR4FT/blob/main/customCommands.md) for a list of custom commands that we created for our server.
+
 Thanks to our Admins:
   - ALEXANDRE BERGERON
   - ANTOINE GAZAILLE
