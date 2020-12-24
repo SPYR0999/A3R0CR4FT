@@ -1,6 +1,8 @@
 # A3R0CR4FT
 THE Minecraft server for aviation enthusiasts!
 
+Our server is made to run on Minecraft 1.12.2 with forge installed.
+
 Click [here](https://discord.gg/9sDKrX828T) for a link to our Discord server.
 
 Click [here](https://github.com/SPYR0999/A3R0CR4FT/blob/main/tutorials/installProcess.md) to know how to enter the server.
@@ -13,4 +15,4 @@ Thanks to our Admins:
   - ALEXANDRE BERGERON
   - ANTOINE GAZAILLE
 
-If you see any syntax, grammar or other errors, or you think improvements should be made in the documentation of this repository, please let us know and we'll change it.
+If you see any syntax, grammar or other mistakes, or you think improvements should be made in the documentation of this repository, please let us know and we'll change it.
