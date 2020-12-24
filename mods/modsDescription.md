@@ -58,3 +58,9 @@ No changes were disabled from the .config file.
 [(source)](https://www.curseforge.com/minecraft/mc-mods/albedo-torches)
 
 >This mod adds colored torches to the game.
+
+[VoxelMap](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/forgemod_VoxelMap-1.9.28_for_1.12.2.jar):
+[(source)](https://www.curseforge.com/minecraft/mc-mods/voxelmap)
+
+>This mod allows you to have a world map and a minimsp in game.
+It also allows you to teleport to different locations and set waypoints.
