@@ -3,6 +3,19 @@ THE Minecraft server for aviation enthusiasts!
 
 Our server is made to run on Minecraft 1.12.2 with forge installed.
 
+The rules are simple:
+
+  - No griefing will be tolerated.
+  - Be respectful withothers at all times.
+  - Before building anything massive, or starting a new airport or set of buildings, ask for approval on the [Discord](https://discord.gg/9sDKrX828T).
+  - The admin's fortress is a private place that no one should ever go into (does not applies for admins).
+  - Helping to build is highly appreciated.
+  - Anyone who breaks the rules will be banned.
+  - Notify admins INSTANTLY if you notice an infraction to these rules.
+  - Good players will be rewarded.
+
+For a more exhaustive list or to read them in more details, click [here](https://github.com/SPYR0999/A3R0CR4FT/blob/main/rules.md).
+
 Click [here](https://discord.gg/9sDKrX828T) for a link to our Discord server.
 
 Click [here](https://github.com/SPYR0999/A3R0CR4FT/blob/main/tutorials/installProcess.md) to know how to enter the server and/or download Minecraft.
