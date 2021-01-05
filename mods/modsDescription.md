@@ -64,3 +64,8 @@ No changes were disabled from the .config file.
 
 >This mod allows you to have a world map and a minimsp in game.
 It also allows you to teleport to different locations and set waypoints.
+
+[Chunk Loaders](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/chunkloaders-1.1.3-mc1.12.jar):
+[(source)](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders)
+
+>This mod allows you to keep chunks loaded indefinitely, maing sure every command block we set up works well.
