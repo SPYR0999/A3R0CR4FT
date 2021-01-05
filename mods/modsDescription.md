@@ -64,3 +64,8 @@ No changes were disabled from the .config file.
 
 >This mod allows you to have a world map and a minimsp in game.
 It also allows you to teleport to different locations and set waypoints.
+
+[extendedReach](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/extendedReach/extendedreach-1.0.1-1.12.2.jar):
+[Sourche](https://www.curseforge.com/minecraft/mc-mods/extended-reach)
+
+>This mod allows you to extend the range from which you can place blocks, remove blocks and perform actions. Read it's [README.md](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/extendedReach/README.md) file to knowhow to configure it.
