@@ -20,6 +20,8 @@ Click [here](https://discord.gg/9sDKrX828T) for a link to our Discord server.
 
 Click [here](https://github.com/SPYR0999/A3R0CR4FT/blob/main/tutorials/installProcess.md) to know how to enter the server and/or download Minecraft.
 
+Click [here](https://github.com/SPYR0999/A3R0CR4FT/edit/main/RessourcePack/A3R0CR4FT.zip) for our ressource pack.
+
 Click [here](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/modsDescription.md) for a list of the mods and how to use them.
 
 Click [here](https://github.com/SPYR0999/A3R0CR4FT/blob/main/customCommands.md) for a list of custom commands that we created for our server.
