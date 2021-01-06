@@ -1,7 +1,7 @@
 **Server rules**
 
   - No griefing will be tolerated.
-  - Be respectful withothers at all times.
+  - Be respectful with others at all times.
   - Before building anything massive, or starting a new airport or set of buildings, ask for approval on the [Discord](https://discord.gg/9sDKrX828T).
   - The admin's fortress is a private place that no one should ever go into (does not applies for admins).
   - Helping to build is highly appreciated.
