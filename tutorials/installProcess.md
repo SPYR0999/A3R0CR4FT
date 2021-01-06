@@ -7,8 +7,10 @@ If you already have Minecraft installed, skip to step 5.
 5. On Windows use the Windows key to open the search bar and type %appdata%. Navigate to .minecraft and find the mods folder (if it doesn't exist you can create one).
    On Mac go into [USER]/Library/ApplicationSupport/Minecraft and find the mods folder (if it doesn't exist you can create one).
 6. Download the [mods](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods) from the GitHub page and copy them into the mods folder.
-7. Launch Minecraft on the version Forge 1.12.2
-8. Go into Multiplayer and choose Add Server.
-9. For the server name choose the one you want, but we reccomend A3R0CR4FT.
-10. For the server address type A3R0CR4FT.aternos.me and click DONE.
-11. Play on the server as you would with any other game (if it sais the server is offline just ask an Admin to start it).
+7. Go back to the minecraft folder and locate the folder ressourcepacks.
+8. Download [A3R0CR4FT's ressource pack](https://github.com/SPYR0999/A3R0CR4FT/edit/main/RessourcePack/A3R0CR4FT.zip) and unzip it there.
+9. Launch Minecraft on the version Forge 1.12.2
+10. Go into Multiplayer and choose Add Server.
+11. For the server name choose the one you want, but we reccomend A3R0CR4FT.
+12. For the server address type A3R0CR4FT.aternos.me and click DONE.
+13. Play on the server as you would with any other game (if it sais the server is offline just ask an Admin to start it).
