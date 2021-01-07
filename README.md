@@ -3,7 +3,7 @@ THE Minecraft server for aviation enthusiasts!
 
 Our server is made to run on Minecraft 1.12.2 with forge installed.
 
-The rules are simple:
+The [rules](https://github.com/SPYR0999/A3R0CR4FT/blob/main/rules.md) are simple. Here is an overview:
 
   - No griefing will be tolerated.
   - Be respectful with others at all times.
@@ -12,7 +12,6 @@ The rules are simple:
   - Helping to build is highly appreciated.
   - Anyone who breaks the rules will be banned.
   - Notify admins INSTANTLY if you notice an infraction to these rules.
-  - Good players will be rewarded.
 
 For a more exhaustive list or to read them in more details, click [here](https://github.com/SPYR0999/A3R0CR4FT/blob/main/rules.md).
 
