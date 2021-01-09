@@ -2,7 +2,7 @@ If you already have Minecraft installed, skip to step 5.
 
 1. Go to the [Java](https://www.java.com/en/download/) download page and intall the latest version.
 2. Go to the [TLauncher](https://tlauncher.org/en/) page and download it's free Minecraft version.
-3. (OPTIONAL) You can make a TLauncher account to use skins (see [installSkinTLauncher](https://github.com/SPYR0999/A3R0CR4FT/blob/main/tutorials/installSkinTLauncher.md) into the tutorials for more details).
+3. *(OPTIONAL)* You can make a TLauncher account to use skins (see [installSkinTLauncher](https://github.com/SPYR0999/A3R0CR4FT/blob/main/tutorials/installSkinTLauncher.md) into the tutorials for more details).
 4. On Windows use the Windows key to open the search bar and type %appdata%. Navigate to .minecraft and find the mods folder (if it doesn't exist you can create one).
    On Mac go into [USER]/Library/ApplicationSupport/Minecraft and find the mods folder (if it doesn't exist you can create one).
 5. Download the [mods](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods) from the GitHub page and copy them into the mods folder.
