@@ -15,4 +15,4 @@ If you already have Minecraft installed, skip to step 5.
 10. Go into Multiplayer and choose Add Server.
 11. For the server name choose the one you want, but we reccomend A3R0CR4FT.
 12. For the server address type *A3R0CR4FT.aternos.me* and click DONE.
-13. Play on the server as you would with any other game (if it sais the server is offline just ask for a serverstarter on [Discord](https://discord.gg/9sDKrX828T)).
+13. Play on the server as you would with any other game (if it sais the server is offline just ask for a serverStarter on [Discord](https://discord.gg/9sDKrX828T)).
