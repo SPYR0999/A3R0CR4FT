@@ -9,4 +9,4 @@
   - Anyone who breaks the rules will be banned.
   - Notify admins INSTANTLY if you notice an infraction to these rules.
   - Good players will be rewarded.
-  - If you see anything odd or that might seems like beign a hidden feature, please notify us instantly (nobody ever made some...).
+  - If you see anything odd or that might seems like beign a hidden feature, please notify us instantly (nobody ever made any...).
