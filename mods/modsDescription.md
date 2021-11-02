@@ -50,7 +50,7 @@ Press left-alt with it to see an option menu. From here you can:
 [Redstone++](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/Redstone%2B%2B%2Bver1.3e.jar):
 [(source)](https://www.curseforge.com/minecraft/mc-mods/redstoneplusplus)
 
->This mod adds redstone items to Minecraft and other small changes.
+>This mod adds redstone items to Minecraft and other small changes (some redstone machines in main constructions are making use of this mod).
 Refer to the [source](https://www.curseforge.com/minecraft/mc-mods/redstoneplusplus) for a list of modifications.
 No changes were disabled from the .config file.
 
@@ -62,10 +62,5 @@ No changes were disabled from the .config file.
 [VoxelMap](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/forgemod_VoxelMap-1.9.28_for_1.12.2.jar):
 [(source)](https://www.curseforge.com/minecraft/mc-mods/voxelmap)
 
->This mod allows you to have a world map and a minimsp in game.
+>This mod allows you to have a world map and a minimap in game.
 It also allows you to teleport to different locations and set waypoints.
-
-[extendedReach](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/extendedReach/extendedreach-1.0.1-1.12.2.jar):
-[Sourche](https://www.curseforge.com/minecraft/mc-mods/extended-reach)
-
->This mod allows you to extend the range from which you can place blocks, remove blocks and perform actions. Read it's [README.md](https://github.com/SPYR0999/A3R0CR4FT/blob/main/mods/extendedReach/README.md) file to knowhow to configure it.
