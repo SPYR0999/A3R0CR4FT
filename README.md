@@ -1,5 +1,5 @@
 # A3R0CR4FT
-THE Minecraft server for aviation enthusiasts!
+THE (our) Minecraft server for aviation enthusiasts!
 
 Our server is made to run on Minecraft 1.12.2 with forge installed.
 
